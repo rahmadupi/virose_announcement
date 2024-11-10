@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/virose_announcement/static/css/main.26b972b1.css",
-    "main.js": "/virose_announcement/static/js/main.fe9bc98a.js",
+    "main.js": "/virose_announcement/static/js/main.916ca6e4.js",
     "static/js/453.c7b09604.chunk.js": "/virose_announcement/static/js/453.c7b09604.chunk.js",
     "index.html": "/virose_announcement/index.html",
     "main.26b972b1.css.map": "/virose_announcement/static/css/main.26b972b1.css.map",
-    "main.fe9bc98a.js.map": "/virose_announcement/static/js/main.fe9bc98a.js.map",
+    "main.916ca6e4.js.map": "/virose_announcement/static/js/main.916ca6e4.js.map",
     "453.c7b09604.chunk.js.map": "/virose_announcement/static/js/453.c7b09604.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.26b972b1.css",
-    "static/js/main.fe9bc98a.js"
+    "static/js/main.916ca6e4.js"
   ]
 }
