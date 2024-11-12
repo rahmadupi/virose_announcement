@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/virose_announcement/static/css/main.fa040475.css",
+    "main.css": "/virose_announcement/static/css/main.62eb8a17.css",
     "main.js": "/virose_announcement/static/js/main.f700460a.js",
     "static/js/453.c7b09604.chunk.js": "/virose_announcement/static/js/453.c7b09604.chunk.js",
     "static/media/Mina-Bold.ttf": "/virose_announcement/static/media/Mina-Bold.44168fd1c490e084d8f6.ttf",
@@ -8,12 +8,12 @@
     "static/media/LOGO.png": "/virose_announcement/static/media/LOGO.5df5d70992d50548469b.png",
     "static/media/Minecraft.ttf": "/virose_announcement/static/media/Minecraft.81f6c7f882fcc2dee106.ttf",
     "index.html": "/virose_announcement/index.html",
-    "main.fa040475.css.map": "/virose_announcement/static/css/main.fa040475.css.map",
+    "main.62eb8a17.css.map": "/virose_announcement/static/css/main.62eb8a17.css.map",
     "main.f700460a.js.map": "/virose_announcement/static/js/main.f700460a.js.map",
     "453.c7b09604.chunk.js.map": "/virose_announcement/static/js/453.c7b09604.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fa040475.css",
+    "static/css/main.62eb8a17.css",
     "static/js/main.f700460a.js"
   ]
 }
