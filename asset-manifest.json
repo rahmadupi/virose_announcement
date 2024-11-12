@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/virose_announcement/static/css/main.ac608fee.css",
-    "main.js": "/virose_announcement/static/js/main.0939df29.js",
+    "main.css": "/virose_announcement/static/css/main.1f67d90f.css",
+    "main.js": "/virose_announcement/static/js/main.30e2db35.js",
     "static/js/453.c7b09604.chunk.js": "/virose_announcement/static/js/453.c7b09604.chunk.js",
     "static/media/Mina-Bold.ttf": "/virose_announcement/static/media/Mina-Bold.44168fd1c490e084d8f6.ttf",
     "static/media/Mina-Regular.ttf": "/virose_announcement/static/media/Mina-Regular.70f9cdb35b3cf6b080ae.ttf",
     "static/media/LOGO.png": "/virose_announcement/static/media/LOGO.5df5d70992d50548469b.png",
     "static/media/Minecraft.ttf": "/virose_announcement/static/media/Minecraft.81f6c7f882fcc2dee106.ttf",
     "index.html": "/virose_announcement/index.html",
-    "main.ac608fee.css.map": "/virose_announcement/static/css/main.ac608fee.css.map",
-    "main.0939df29.js.map": "/virose_announcement/static/js/main.0939df29.js.map",
+    "main.1f67d90f.css.map": "/virose_announcement/static/css/main.1f67d90f.css.map",
+    "main.30e2db35.js.map": "/virose_announcement/static/js/main.30e2db35.js.map",
     "453.c7b09604.chunk.js.map": "/virose_announcement/static/js/453.c7b09604.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ac608fee.css",
-    "static/js/main.0939df29.js"
+    "static/css/main.1f67d90f.css",
+    "static/js/main.30e2db35.js"
   ]
 }
